@@ -93,5 +93,56 @@
     <ClCompile Include="11729.cpp">
       <Filter>Recursion</Filter>
     </ClCompile>
+    <ClCompile Include="1330.cpp">
+      <Filter>BAEKJOON</Filter>
+    </ClCompile>
+    <ClCompile Include="9498.cpp">
+      <Filter>BAEKJOON</Filter>
+    </ClCompile>
+    <ClCompile Include="2753.cpp">
+      <Filter>BAEKJOON</Filter>
+    </ClCompile>
+    <ClCompile Include="14681.cpp">
+      <Filter>BAEKJOON</Filter>
+    </ClCompile>
+    <ClCompile Include="2884.cpp">
+      <Filter>BAEKJOON</Filter>
+    </ClCompile>
+    <ClCompile Include="2525.cpp">
+      <Filter>BAEKJOON</Filter>
+    </ClCompile>
+    <ClCompile Include="2480.cpp">
+      <Filter>BAEKJOON</Filter>
+    </ClCompile>
+    <ClCompile Include="2739.cpp">
+      <Filter>BAEKJOON</Filter>
+    </ClCompile>
+    <ClCompile Include="10950.cpp">
+      <Filter>BAEKJOON</Filter>
+    </ClCompile>
+    <ClCompile Include="8393.cpp">
+      <Filter>BAEKJOON</Filter>
+    </ClCompile>
+    <ClCompile Include="25304.cpp">
+      <Filter>BAEKJOON</Filter>
+    </ClCompile>
+    <ClCompile Include="25314.cpp">
+      <Filter>BAEKJOON</Filter>
+    </ClCompile>
+    <ClCompile Include="15552.cpp">
+      <Filter>BAEKJOON</Filter>
+    </ClCompile>
+    <ClCompile Include="11021.cpp">
+      <Filter>BAEKJOON</Filter>
+    </ClCompile>
+    <ClCompile Include="11022.cpp">
+      <Filter>BAEKJOON</Filter>
+    </ClCompile>
+    <ClCompile Include="2438.cpp">
+      <Filter>BAEKJOON</Filter>
+    </ClCompile>
+    <ClCompile Include="2439.cpp">
+      <Filter>BAEKJOON</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
