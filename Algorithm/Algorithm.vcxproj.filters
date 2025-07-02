@@ -213,5 +213,8 @@
     <ClCompile Include="11718.cpp">
       <Filter>BAEKJOON</Filter>
     </ClCompile>
+    <ClCompile Include="28278.cpp">
+      <Filter>Stack</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
