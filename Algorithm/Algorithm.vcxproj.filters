@@ -222,5 +222,11 @@
     <ClCompile Include="10870.cpp">
       <Filter>Recursion</Filter>
     </ClCompile>
+    <ClCompile Include="24060.cpp">
+      <Filter>Recursion</Filter>
+    </ClCompile>
+    <ClCompile Include="9012.cpp">
+      <Filter>Stack</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

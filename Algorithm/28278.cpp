@@ -30,17 +30,17 @@ public:
 	}
 	void StackSize()//3
 	{
-		cout << top+1 << '\n';
+		cout << top << '\n';
 	}
 	void PrintEmpty()//4
 	{
-		cout << IsEmpty() ? "1\n" : "0\n";
+		cout << (IsEmpty() ? "1\n" : "0\n");
 	}
 	void PrintTop()//5
 	{
 		if (!IsEmpty())
 		{
-			cout << stack[top] << "\n";
+			cout << stack[top-1] << "\n";
 		}
 		else cout << "-1\n";
 
