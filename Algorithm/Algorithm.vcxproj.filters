@@ -228,5 +228,14 @@
     <ClCompile Include="9012.cpp">
       <Filter>Stack</Filter>
     </ClCompile>
+    <ClCompile Include="12789.cpp">
+      <Filter>Stack</Filter>
+    </ClCompile>
+    <ClCompile Include="18258.cpp">
+      <Filter>Queue</Filter>
+    </ClCompile>
+    <ClCompile Include="18258-1.cpp">
+      <Filter>Queue</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
