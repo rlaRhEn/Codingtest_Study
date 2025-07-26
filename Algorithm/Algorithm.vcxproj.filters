@@ -237,5 +237,11 @@
     <ClCompile Include="18258-1.cpp">
       <Filter>Queue</Filter>
     </ClCompile>
+    <ClCompile Include="2164.cpp">
+      <Filter>Queue</Filter>
+    </ClCompile>
+    <ClCompile Include="11866.cpp">
+      <Filter>Queue</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
