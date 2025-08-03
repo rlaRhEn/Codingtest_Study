@@ -21,14 +21,17 @@ int main(void)
 	cout << "<";
 	while (!que.empty())
 	{
-		
 		for (int i = 0; i < k - 1; i++)
 		{
 			que.push(que.front());
 			que.pop();
 		}
-		cout << que.front() << ", ";//제거할거 출력
+		cout << que.front();//제거할거 출력
 		que.pop();//제거
+		if (!que.empty())
+		{
+			cout << ", ";
+		}
 	}
 	cout << ">";
 
