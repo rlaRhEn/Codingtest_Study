@@ -28,6 +28,9 @@
     <Filter Include="BAEKJOON">
       <UniqueIdentifier>{5ca10644-0c37-4382-a77e-a24d08c65d0d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="BFS">
+      <UniqueIdentifier>{e20b347f-ee1d-4a28-852c-c2bcc585c957}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Algorithm.cpp">
@@ -246,8 +249,17 @@
     <ClCompile Include="28279.cpp">
       <Filter>Deque</Filter>
     </ClCompile>
-    <ClCompile Include="2346.cpp">
+    <ClCompile Include="2346x.cpp">
       <Filter>Deque</Filter>
+    </ClCompile>
+    <ClCompile Include="24511.cpp">
+      <Filter>Deque</Filter>
+    </ClCompile>
+    <ClCompile Include="BFS_STL.cpp">
+      <Filter>BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="1926.cpp">
+      <Filter>BFS</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
